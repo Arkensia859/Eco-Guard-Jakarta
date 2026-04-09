@@ -1,0 +1,5 @@
+python-dotenv
+crewai
+langchain-google-genai
+langchain-openai
+requests

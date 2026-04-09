@@ -1,0 +1,7 @@
+﻿*
+!.gitignore
+!/jakarta_ecoguard/
+!/jakarta_ecoguard/**
+/jakarta_ecoguard/.env
+/jakarta_ecoguard/__pycache__/
+
